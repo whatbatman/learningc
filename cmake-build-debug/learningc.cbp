@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="learningc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/whatbatman/code/learningc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/whatbatman/code/learningc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/whatbatman/code/learningc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="learningc">
+				<Option output="/home/whatbatman/code/learningc/cmake-build-debug/learningc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/whatbatman/code/learningc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 learningc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="learningc/fast">
+				<Option output="/home/whatbatman/code/learningc/cmake-build-debug/learningc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/whatbatman/code/learningc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 learningc/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/whatbatman/code/learningc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/whatbatman/code/learningc/1.6Arrays/1-13/histogram.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/1.6Arrays/counter.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/copyfile/copyfile.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/copyfile/printEOF.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/detab/detab.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/hello_world/hello_world.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/histogram/histogram.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/linecounter/countblanks.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/linecounter/linecounter.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/power_func/power_func.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/str_rev/str_rev.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/temp_converter/float_temp_converter.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/temp_converter/rev_for_temp_converter.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/temp_converter/temp_converter.c">
+			<Option target="learningc"/>
+		</Unit>
+		<Unit filename="/home/whatbatman/code/learningc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

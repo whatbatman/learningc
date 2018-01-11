@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+main()
+{
+    int c, i, d, e;
+    char chars[10];
+
+        d = 0;
+        for(i=0; i< 3; i++) {
+            chars[i] = getchar();
+            d++;
+        }
+        printf("%d\n", d);
+        for(i = 0; i < d; i++) {
+            printf("-");
+        }
+
+        /*while((c=getchar()) != '\n') {
+            chars[d] = c;
+            d++;
+            printf("test\n");
+        }*/
+        //printf('%d\n', d);
+        
+
+}
